@@ -1,1 +1,1 @@
-# document-understanding-usecase
+# Spectrum-Task-Document-Understanding
